@@ -1,0 +1,173 @@
+Exercise 4
+Main Task
+
+1. Make a commit, and make a silly typo in the commit message.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~
+$ cd desktop
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop
+$ cd commands
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   src/file1.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git add .
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git commit -m "cozzinting mistake"
+[master 11272f4] cozzinting mistake
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+2. Use the --amend flag to enable you to fix the commit message.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git commit --amend -m "commiting message updated"
+[master d402849] commiting message updated
+ Date: Tue Aug 23 05:10:39 2022 -0700
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+3. Look at the log and notice how the mistake is magically gone.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git log
+commit d402849624318d15fc5d08550bc8a2bf184f28a7 (HEAD -> master)
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Tue Aug 23 05:10:39 2022 -0700
+
+    commiting message updated
+
+commit 8d8f3ed660bfad351a73a260e74421e860d26a6e (branch1)
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 22:46:13 2022 -0700
+
+    add code in file1
+
+commit 4626740e543933c4ba100c23ebd3de0533b1b29f
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 22:34:42 2022 -0700
+
+    add.html file added
+
+commit 9923e39e13ac74be5f60046597ff2f378a739843
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 21:10:12 2022 -0700
+
+    add new files
+:
+commit d402849624318d15fc5d08550bc8a2bf184f28a7 (HEAD -> master)
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Tue Aug 23 05:10:39 2022 -0700
+
+    commiting message updated
+
+commit 8d8f3ed660bfad351a73a260e74421e860d26a6e (branch1)
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 22:46:13 2022 -0700
+
+    add code in file1
+
+commit 4626740e543933c4ba100c23ebd3de0533b1b29f
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 22:34:42 2022 -0700
+
+    add.html file added
+
+commit 9923e39e13ac74be5f60046597ff2f378a739843
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 21:10:12 2022 -0700
+
+    add new files
+
+4. Now make a commit where you make a typo in one of the files. Once again, use --amend to
+magic away your problems.
+
+5. Create a branch. Make a commit.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git checkout -b newbranch
+Switched to a new branch 'newbranch'
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (newbranch)
+$ git add .
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (newbranch)
+$ git commit -m "add newbranch text"
+[newbranch 42189af] add newbranch text
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+6. Now switch back to your master branch. Make a (non-conflicting) commit there also.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (newbranch)
+$ git checkout master
+Switched to branch 'master'
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git add .
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git commit -m "non conflicting text"
+[master e996631] non conflicting text
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+7. Now switch back to your branch.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git checkout newbranch
+Switched to branch 'newbranch'
+
+8. Use the rebase command in your branch. Look at the DAG in gitk, and note that you have
+the commit from the master branch, but no merge commit.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (newbranch|REBASE 1/1)
+$ git rebase master
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+        git rebase (--continue | --abort | --skip)
+If that is not the case, please
+        rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (newbranch|REBASE 1/1)
+$ git rebase --continue
+src/file1.html: needs merge
+You must edit all merge conflicts and then
+mark them as resolved using git add
+
+9. Make one more commit in your branch.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (newbranch|REBASE 1/1)
+$ git add .
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (newbranch|REBASE 1/1)
+$ git commit -m "add rebase commit"
+[detached HEAD 8c19b9a] add rebase commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+10. Return to master. Merge your branch. Notice how, thanks to the rebase, this is a fastforward merge
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (newbranch|REBASE 1/1)
+$ git checkout master
+Warning: you are leaving 1 commit behind, not connected to
+any of your branches:
+
+  8c19b9a add rebase commit
+
+If you want to keep it by creating a new branch, this may be a good time
+to do so with:
+
+ git branch <new-branch-name> 8c19b9a
+
+Switched to branch 'master'
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (newbranch|REBASE 1/1)
+$ git merge newbranch
+Auto-merging src/file1.html
+CONFLICT (content): Merge conflict in src/file1.html
+Automatic merge failed; fix conflicts and then commit the result.
+
+
+
+
