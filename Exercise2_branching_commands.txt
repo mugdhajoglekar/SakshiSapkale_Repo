@@ -1,0 +1,161 @@
+Exercise 2
+Main Task
+
+1. Run the status command. Notice how it tells you what branch you are in.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   src/file1.html
+
+2. Use the branch command to create a new branch.
+3. Use the checkout command to switch to it.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (branch1)
+$ git checkout -b master
+fatal: a branch named 'master' already exists
+
+4. Make a couple of commits in the branch – perhaps adding a new file and/or editing existing
+ones.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (branch1)
+$ git status
+On branch branch1
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   src/file1.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        add.html
+
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (branch1)
+$ git add .
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (branch1)
+$ git commit -m "add.html file added"
+[branch1 4626740] add.html file added
+ 2 files changed, 13 insertions(+)
+ create mode 100644 add.html
+
+5. Use the log command to see the latest commits. The two you just made should be at the
+top of the list.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (branch1)
+$ git log
+commit 4626740e543933c4ba100c23ebd3de0533b1b29f (HEAD -> branch1)
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 22:34:42 2022 -0700
+
+    add.html file added
+
+commit 9923e39e13ac74be5f60046597ff2f378a739843 (master)
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 21:10:12 2022 -0700
+
+    add new files
+
+commit 6df4be2700d502329e4ec04516beb19721f6739c
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 21:06:15 2022 -0700
+
+    first commit
+
+6. Use the checkout command to switch back to the master branch. Run log again. Notice
+your commits don’t show up now. Check the files also – they should have their original
+contents.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (branch1)
+$ git checkout master
+Switched to branch 'master'
+
+7. Use the checkout command to switch back to your branch. Use gitk to take a look at the
+commit graph; notice it’s linear.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git checkout branch1
+Switched to branch 'branch1'
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (branch1)
+$ gitk
+
+8. Now checkout the master branch again. Use the merge command to merge your branch in
+to it. Look for information about it having been a fast-forward merge. Look at git log, and
+see that there is no merge commit. Take a look in gitk and see how the DAG is linear
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (branch1)
+$ git checkout master
+Switched to branch 'master'
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git merge branch1
+Updating 9923e39..4626740
+Fast-forward
+ add.html       | 12 ++++++++++++
+ src/file1.html |  1 +
+ 2 files changed, 13 insertions(+)
+ create mode 100644 add.html
+
+9. Switch back to your branch. Make a couple more commits.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git checkout branch1
+Switched to branch 'branch1'
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (branch1)
+$ git status
+On branch branch1
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   src/file1.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (branch1)
+$ git add .
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (branch1)
+$ git commit -m "add code in file1"
+[branch1 8d8f3ed] add code in file1
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+10. Switch back to master. Make a commit there, which should edit a different file from the
+ones you touched in your branch – to be sure there is no conflict
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (branch1)
+$ git checkout master
+Switched to branch 'master'
+
+11. Now merge your branch again. (Aside: you don’t need to do anything to inform Git that you
+only want to merge things added since your previous merge. Due to the way Git works, that kind of
+issue simply does not come up, unlike in early versions of Subversion.)
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git merge branch1
+Updating 4626740..8d8f3ed
+Fast-forward
+ src/file1.html | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+12. Look at git log. Notice that there is a merge commit. Also look in gitk. Notice the DAG now shows
+how things forked, and then were joined up again by a merge commit.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git log
+commit 8d8f3ed660bfad351a73a260e74421e860d26a6e (HEAD -> master, branch1)
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 22:46:13 2022 -0700
+
+    add code in file1
+
+commit 4626740e543933c4ba100c23ebd3de0533b1b29f
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 22:34:42 2022 -0700
+
+    add.html file added
+
+commit 9923e39e13ac74be5f60046597ff2f378a739843
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 21:10:12 2022 -0700
+
+    add new files
+
+commit 6df4be2700d502329e4ec04516beb19721f6739c
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 21:06:15 2022 -0700
+
+    first commit
+

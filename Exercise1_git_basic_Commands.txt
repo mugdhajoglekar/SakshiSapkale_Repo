@@ -1,0 +1,160 @@
+Git Exercises
+Exercise 1
+Main Task
+
+1. Create a new directory and change into it.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~
+$ cd desktop
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop
+$ cd commands
+
+2. Use the init command to create a Git repository in that directory.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands
+$ git init
+Initialized empty Git repository in C:/Users/sakshi.sapkale/Desktop/commands/.git/
+
+3. Observe that there is now a .git directory
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ ls
+index.html
+
+4. Create a README file.
+
+5. Look at the output of the status command; the README you created should appear as an
+untracked file.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+6. Use the add command to add the new file to the staging area. Again, look at the output of
+the status command.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git add .
+
+7. Now use the commit command to commit the contents of the staging area.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git commit -m "first commit"
+[master (root-commit) 6df4be2] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 index.html
+
+8. Create a src directory and add a couple of files to it.
+
+9. Use the add command, but name the directory, not the individual files. Use the status
+command. See how both files have been staged. Commit them.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git add .
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Readme.md
+        new file:   src/file1.html
+        new file:   src/file2.html
+
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git commit -m "add new files"
+[master 9923e39] add new files
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Readme.md
+ create mode 100644 src/file1.html
+ create mode 100644 src/file2.html
+
+10. Make a change to one of the files. Use the diff command to view the details of the change
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git diff
+diff --git a/src/file1.html b/src/file1.html
+index e69de29..cad2470 100644
+--- a/src/file1.html
++++ b/src/file1.html
+@@ -0,0 +1 @@
++Changing the file code.
+\ No newline at end of file
+
+11. Next, add the changed file, and notice how it moves to the staging area in the status
+output. Also observe that the diff command you did before using add now gives no output. Why
+not? What do you have to do to see a diff of the things in the staging area? (Hint: review the slides
+if you can’t remember.)
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git diff
+diff --git a/src/file1.html b/src/file1.html
+index e69de29..cad2470 100644
+--- a/src/file1.html
++++ b/src/file1.html
+@@ -0,0 +1 @@
++Changing the file code.
+\ No newline at end of file
+
+12. Now – without committing – make another change to the same file you changed in step 10. Look
+at the status output, and the diff output. Notice how you can have both staged and unstaged
+changes, even when you’re talking about a single file. Observe the difference when you use the
+add command to stage the latest round of changes. Finally, commit them. You should now have
+started to get a feel for the staging area.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git add .
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git diff
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git diff --cached
+diff --git a/src/file1.html b/src/file1.html
+index e69de29..cad2470 100644
+--- a/src/file1.html
++++ b/src/file1.html
+@@ -0,0 +1 @@
++Changing the file code.
+\ No newline at end of file
+
+13. Use the log command in order to see all of the commits you made so far.
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git log
+commit 9923e39e13ac74be5f60046597ff2f378a739843 (HEAD -> master)
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 21:10:12 2022 -0700
+
+    add new files
+
+commit 6df4be2700d502329e4ec04516beb19721f6739c
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 21:06:15 2022 -0700
+
+    first commit
+
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$
+
+14. Use the show command to look at an individual commit. How many characters of the
+commit identifier can you get away with typing at a minimum?
+Sakshi.Sapkale@PUN-DE-DLDC0H8 MINGW64 ~/desktop/commands (master)
+$ git show  6df4be2700d502329e4ec04516beb19721f6739c
+commit 6df4be2700d502329e4ec04516beb19721f6739c
+Author: sakshi sapkale <sakshi.sapkale@emtecinc.com>
+Date:   Mon Aug 22 21:06:15 2022 -0700
+
+    first commit
+
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..0700678
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1 @@
++Hello world ! I am here.
+\ No newline at end of file
+
+
+15. Make a couple more commits, at least one of which should add an extra file.
+
