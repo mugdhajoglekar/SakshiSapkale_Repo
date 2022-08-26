@@ -82,12 +82,14 @@ Select * from Orders
 where (amt < 1000 OR
 NOT (odate = '1990-10-03'
 AND cnum > 2003));
+-- It shows total 8 records.
 
 /*What will be the output of the following query?
 Select * from Orders
 where NOT ((odate = ‘1990-10-03’ OR snum >1006) AND amt >= 1500)*/
-Select * from Orders
-where NOT ((odate = '1990-10-03' OR snum >1006) AND amt >= 1500)
+Select * from Orders 
+where NOT ((odate = '1990-10-03'OR snum >1006) AND amt >= 1500); .
+-- It shows total 8 records
 
 /*Write a query that selects all orders except those with zeroes or NULLs in the amt field.*/
 select * from orders where amt is not null and amt >0;
