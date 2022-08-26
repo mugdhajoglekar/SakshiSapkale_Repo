@@ -306,7 +306,7 @@ select * from employees order by FIRST_NAME DESC;
 
 /*Write a query to get the employee ID, names (first_name, last_name), salary in ascending order of
 salary.*/
-select EMPLOYEE_ID, FIRST_NAME, LAST_NAME, SALARY from employees order by salary;
+select FIRST_NAME, LAST_NAME, SALARY from employees order by salary;
 
 /*Display first name and join date of the employees who is either IT Programmer or Sales Man.*/
 select FIRST_NAME, HIRE_DATE, JOB_ID from employees where JOB_ID ='SA_REP' OR JOB_ID= 'IT_PROG';
@@ -318,7 +318,7 @@ select * from employees where EMPLOYEE_ID = 150 or EMPLOYEE_ID = 160;
 select FIRST_NAME, SALARY, COMMISSION_PCT, HIRE_DATE from employees where salary < 10000;
 
 /*Display employees where the first name or last name starts with S.*/
-select * from employees where FIRST_NAME LIKE 'A%' or LAST_NAME LIKE 'S%';
+select * from employees where FIRST_NAME LIKE 'S%' or LAST_NAME LIKE 'S%';
 
 /*Display details of jobs in the descending order of the title*/
 SELECT * FROM employees ORDER BY JOB_ID DESC;
