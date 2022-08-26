@@ -2,10 +2,7 @@ create Database HRedited ;
 
 use HRedited;
 
-
-
 /******************************************** Table creation*******************************************************/
-
 CREATE TABLE countries (
   COUNTRY_ID varchar(2) NOT NULL,
   COUNTRY_NAME varchar(40) DEFAULT NULL,
@@ -93,7 +90,6 @@ CREATE TABLE employees (
   DEPARTMENT_ID decimal(4,0) DEFAULT NULL,
   PRIMARY KEY (EMPLOYEE_ID)
 )
-
 
 INSERT INTO employees (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, EMAIL, PHONE_NUMBER, HIRE_DATE, JOB_ID, SALARY, COMMISSION_PCT, MANAGER_ID, DEPARTMENT_ID) VALUES
 ('100', 'Steven', 'King', 'SKING', '515.123.4567', '1987-06-17', 'AD_PRES', '24000.00', '0.00', '0', '90'),
@@ -204,7 +200,6 @@ INSERT INTO employees (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, EMAIL, PHONE_NUMBER, 
 ('205', 'Shelley', 'Higgins', 'SHIGGINS', '515.123.8080', '1987-09-30', 'AC_MGR', '12000.00', '0.00', '101', '110'),
 ('206', 'William', 'Gietz', 'WGIETZ', '515.123.8181', '1987-10-01', 'AC_ACCOUNT', '8300.00', '0.00', '205', '110');
 
-
 CREATE TABLE job_history (
   EMPLOYEE_ID decimal(6,0) NOT NULL,
   START_DATE date NOT NULL,
@@ -225,8 +220,6 @@ INSERT INTO job_history (EMPLOYEE_ID, START_DATE, END_DATE, JOB_ID, DEPARTMENT_I
 ('176', '1998-03-24', '1998-12-31', 'SA_REP', '80'),
 ('176', '1999-01-01', '1999-12-31', 'SA_MAN', '80'),
 ('200', '1994-07-01', '1998-12-31', 'AC_ACCOUNT', '90');
-
-
 
 CREATE TABLE jobs (
   JOB_ID varchar(10) NOT NULL DEFAULT '',
@@ -257,8 +250,6 @@ INSERT INTO jobs (JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY) VALUES
 ('HR_REP', 'Human Resources Representative', '4000', '9000'),
 ('PR_REP', 'Public Relations Representative', '4500', '10500');
 
-
-
 CREATE TABLE locations (
   LOCATION_ID decimal(4,0) NOT NULL DEFAULT '0',
   STREET_ADDRESS varchar(40) DEFAULT NULL,
@@ -268,8 +259,7 @@ CREATE TABLE locations (
   COUNTRY_ID varchar(2) DEFAULT NULL,
   PRIMARY KEY (LOCATION_ID),
   ) 
-
-  
+ 
 INSERT INTO locations (LOCATION_ID, STREET_ADDRESS, POSTAL_CODE, CITY, STATE_PROVINCE, COUNTRY_ID) VALUES
 ('1000', '1297 Via Cola di Rie', '989', 'Roma', '', 'IT'),
 ('1100', '93091 Calle della Testa', '10934', 'Venice', '', 'IT'),
@@ -300,73 +290,51 @@ CREATE TABLE regions (
   REGION_NAME varchar(25) DEFAULT NULL UNIQUE,
   PRIMARY KEY (REGION_ID)
 )
-
 INSERT INTO regions (REGION_ID, REGION_NAME) VALUES
 ('1', 'Europe'),
 ('2', 'Americas'),
 ('3', 'Asia'),
 ('4', 'Middle East and Africa');
 
-
 /****************************************************** SQL Assignments 4**********************************************/
-
-
-
-
 
 /*Write a query to get unique department ID from employee table.*/
 select distinct(DEPARTMENT_ID) from employees;
 
-
 /*Write a query to get all employee details from the employee table order by first name, descending.*/
 select * from employees order by FIRST_NAME DESC;
-
 
 /*Write a query to get the employee ID, names (first_name, last_name), salary in ascending order of
 salary.*/
 select EMPLOYEE_ID, FIRST_NAME, LAST_NAME, SALARY from employees order by salary;
 
-
 /*Display first name and join date of the employees who is either IT Programmer or Sales Man.*/
 select FIRST_NAME, HIRE_DATE, JOB_ID from employees where JOB_ID ='SA_REP' OR JOB_ID= 'IT_PROG';
-
 
 /*Display details of employee with ID 150 or 160.*/
 select * from employees where EMPLOYEE_ID = 150 or EMPLOYEE_ID = 160;
 
-
 /*Display first name, salary, commission pct, and hire date for employees with salary less than 10000.*/
 select FIRST_NAME, SALARY, COMMISSION_PCT, HIRE_DATE from employees where salary < 10000;
-
 
 /*Display employees where the first name or last name starts with S.*/
 select * from employees where FIRST_NAME LIKE 'A%' or LAST_NAME LIKE 'S%';
 
-
 /*Display details of jobs in the descending order of the title*/
 SELECT * FROM employees ORDER BY JOB_ID DESC;
-
 
 /*Display details of the employees where commission percentage is null and salary in the range 5000
 to 10000 and department is 30.*/
 SELECT * FROM employees WHERE( (COMMISSION_PCT IS NULL) AND (SALARY  BETWEEN 5000 AND 10000) AND DEPARTMENT_ID = 30);
 
-
 /*Display unique contry_id from locations table.*/
 SELECT DISTINCT(COUNTRY_ID) FROM locations;
-
 
 /*Display all employees whose have job_id IT_PROG and FI_ACCOUNT.*/
 SELECT * FROM employees WHERE JOB_ID = 'IT_PROG' or JOB_ID='FI_ACCOUNT';
 
-
 /*Display all countries in ascending order*/
 select COUNTRY_ID FROM locations ORDER BY COUNTRY_ID;
-
-
-
-
-
 
 --SELECT * FROM  LOCATIONS;
 --select * from employees;
