@@ -32,18 +32,29 @@ function OwnerRegistration() {
   const onChangePassword = (e) => {
     setPassword(e.target.value);
   };
-  function onSubmit() {
-    localStorage.setItem("UserId", RestaurantId);
-    localStorage.setItem("UserName", ownerName);
-    localStorage.setItem("UserEmail", emailId);
-    localStorage.setItem("Usermobile", mobileNo);
-    localStorage.setItem("Useraddress", address);
-    localStorage.setItem("Userpassword", password);
+  const handlersubmit= (e) =>{
+    console.log(e);
+      e.preventDefault();
+      
+      if (!emailId.includes("@")) {
+          alert("Enter valid email");
+      }
+      else if (password.length < 5) {
+          alert("Password should be greater than five letter");
+      }
+      else{
+        localStorage.setItem("UserId", RestaurantId);
+        localStorage.setItem("UserName", ownerName);
+        localStorage.setItem("UserEmail", emailId);
+        localStorage.setItem("Usermobile", mobileNo);
+        localStorage.setItem("Useraddress", address);
+        localStorage.setItem("Userpassword", password);
 
-    window.alert("Registration Successful!!!");
-    navigate("/AdminLogin");
+        window.alert("Registration Successful!!!");
+        navigate("/AdminLogin");
+      }
+    
   }
-
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-light navbar-dark bg-dark ">
@@ -59,6 +70,7 @@ function OwnerRegistration() {
       <div className="m-5 mt-1">
         <div className="border border-success p-5">
           <h3>Admin Registration </h3>
+          <form onSubmit={handlersubmit}>
           <label className="m-1 row">Restaurant Id : </label>
           <input
             type="number"
@@ -116,12 +128,13 @@ function OwnerRegistration() {
           <div className="text-center">
             <button
               className="row mt-2 btn btn-success row "
-              onClick={onSubmit}
+             // onClick={onSubmit}
               type="submit"
             >
               Register
             </button>
           </div>
+          </form>
         </div>
       </div>
     </div>

@@ -27,16 +27,24 @@ function UserRegistration() {
     setPassword(e.target.value);
   };
 
-  function onSubmit() {
-    localStorage.setItem("UserId", userId);
-    localStorage.setItem("UserName", username);
-    localStorage.setItem("Usermobile", mobileNo);
-    localStorage.setItem("Useraddress", address);
-    localStorage.setItem("Userpassword", password);
-
-    window.alert("Registration Successful");
-    navigate("/");
+  const handlersubmit=(e)=> {
+    console.log(e);
+      e.preventDefault();
+      
+      if (password.length < 5) {
+          alert("Password should be greater than five letter");
+      }
+      else{
+      localStorage.setItem("UserId", userId);
+      localStorage.setItem("UserName", username);
+      localStorage.setItem("Usermobile", mobileNo);
+      localStorage.setItem("Useraddress", address);
+      localStorage.setItem("Userpassword", password);
+      window.alert("Registration Successful");
+      navigate("/");
+      }
   }
+
 
   return (
     <div>
@@ -53,6 +61,7 @@ function UserRegistration() {
       <div className=" col d-flex justify-content-center m-2">
         <div className="border border-success p-5">
           <h3>User Registration </h3>
+          <form onSubmit={handlersubmit}>
           <label className="m-1 row">User Id : </label>
           <input
             type="number"
@@ -69,7 +78,7 @@ function UserRegistration() {
             onChange={onChangeUserName}
             className="m-1 row form-control"
             placeholder="Enter User name"
-            required
+            required="required"
           ></input>
           <label className="m-1 row">Address : </label>
           <input
@@ -78,7 +87,7 @@ function UserRegistration() {
             onChange={onChangeAddress}
             className="m-1 row form-control"
             placeholder="Enter Address"
-            required
+            required="required"
           ></input>
           <label className="m-1 row">Mobile No : </label>
           <input
@@ -91,7 +100,7 @@ function UserRegistration() {
           ></input>
           <label className="m-1 row">Password :</label>
           <input
-            type="text"
+            type="password"
             value={password}
             onChange={onChangePassword}
             className="m-1 row form-control"
@@ -101,12 +110,13 @@ function UserRegistration() {
           <div className="text-center">
             <button
               className="row mt-2 btn btn-success row "
-              onClick={onSubmit}
+              //onClick={onSubmit}
               type="submit"
             >
               Register
             </button>
           </div>
+          </form>
         </div>
       </div>
     </div>
