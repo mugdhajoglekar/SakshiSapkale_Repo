@@ -1,0 +1,8 @@
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp4_assign1_Q4\ConsoleApp4_assign1_Q4\bin\Debug\ConsoleApp4_assign1_Q4.exe.config
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp4_assign1_Q4\ConsoleApp4_assign1_Q4\bin\Debug\ConsoleApp4_assign1_Q4.exe
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp4_assign1_Q4\ConsoleApp4_assign1_Q4\bin\Debug\ConsoleApp4_assign1_Q4.pdb
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp4_assign1_Q4\ConsoleApp4_assign1_Q4\obj\Debug\ConsoleApp4_assign1_Q4.csproj.AssemblyReference.cache
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp4_assign1_Q4\ConsoleApp4_assign1_Q4\obj\Debug\ConsoleApp4_assign1_Q4.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp4_assign1_Q4\ConsoleApp4_assign1_Q4\obj\Debug\ConsoleApp4_assign1_Q4.csproj.CoreCompileInputs.cache
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp4_assign1_Q4\ConsoleApp4_assign1_Q4\obj\Debug\ConsoleApp4_assign1_Q4.exe
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp4_assign1_Q4\ConsoleApp4_assign1_Q4\obj\Debug\ConsoleApp4_assign1_Q4.pdb
