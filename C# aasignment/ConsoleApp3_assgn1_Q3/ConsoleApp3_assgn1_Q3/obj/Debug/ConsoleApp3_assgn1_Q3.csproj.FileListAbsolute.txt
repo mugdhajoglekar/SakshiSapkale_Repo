@@ -1,0 +1,8 @@
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp3_assgn1_Q3\ConsoleApp3_assgn1_Q3\bin\Debug\ConsoleApp3_assgn1_Q3.exe.config
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp3_assgn1_Q3\ConsoleApp3_assgn1_Q3\bin\Debug\ConsoleApp3_assgn1_Q3.exe
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp3_assgn1_Q3\ConsoleApp3_assgn1_Q3\bin\Debug\ConsoleApp3_assgn1_Q3.pdb
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp3_assgn1_Q3\ConsoleApp3_assgn1_Q3\obj\Debug\ConsoleApp3_assgn1_Q3.csproj.AssemblyReference.cache
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp3_assgn1_Q3\ConsoleApp3_assgn1_Q3\obj\Debug\ConsoleApp3_assgn1_Q3.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp3_assgn1_Q3\ConsoleApp3_assgn1_Q3\obj\Debug\ConsoleApp3_assgn1_Q3.csproj.CoreCompileInputs.cache
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp3_assgn1_Q3\ConsoleApp3_assgn1_Q3\obj\Debug\ConsoleApp3_assgn1_Q3.exe
+C:\Users\sakshi.sapkale\Desktop\C# aasignment\ConsoleApp3_assgn1_Q3\ConsoleApp3_assgn1_Q3\obj\Debug\ConsoleApp3_assgn1_Q3.pdb
