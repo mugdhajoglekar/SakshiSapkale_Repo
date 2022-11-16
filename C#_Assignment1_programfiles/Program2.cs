@@ -1,30 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace ConsoleApp2_assign1_Q2
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Security.Cryptography.X509Certificates;
+    using System.Text;
+    using System.Threading.Tasks;
     internal class Program
     {
         static void Main(string[] args)
         {
              
-            Customer obj = new Customer();
-            obj.show();
-            obj.show("I am para Text");
+            Customer baseClasObj = new Customer();
+            baseClasObj.show();
+            baseClasObj.show("I am para Text");
 
             //// object of derived class
-            Customer obj2 = new Customer();
-            obj2.setcustomerDetail("Sakshi", 679.34);
-            obj2.showCustDetails();
+            Customer derivedClassObj = new Customer();
+            derivedClassObj.setcustomerDetail("Sakshi", 679.34);
+            derivedClassObj.showCustDetails();
 
             //interest object
-            interest obj3 = new interest();
-            obj3.setInterestValues(1,5000,15);
-            obj3.calculateInterest();
+            interest interestObj = new interest();
+            interestObj.setInterestValues(1,5000,15);
+            interestObj.calculateInterest();
             Console.ReadLine();
 
         }
@@ -83,11 +83,11 @@ namespace ConsoleApp2_assign1_Q2
         public float amount;
         public float rate;
 
-        public void setInterestValues(float interesttime, float interestamount, float interestrate)
+        public void setInterestValues(float interestTime, float interestAmount, float interestRate)
         {
-            time = interesttime;
-            amount =interestamount;
-            rate = interestrate;
+            time = interestTime;
+            amount =interestAmount;
+            rate = interestRate;
 
         }
         public void calculateInterest()
