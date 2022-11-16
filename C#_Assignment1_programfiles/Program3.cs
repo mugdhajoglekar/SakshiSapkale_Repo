@@ -1,11 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ConsoleApp3_assgn1_Q3
+﻿namespace ConsoleApp3_assgn1_Q3
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
     internal class Program
     {
         enum Country { INDIA=10, AUSTRALIA, USA, JAPAN, FRANCE, ENGLAND };

@@ -1,5 +1,4 @@
-﻿
-namespace ConsoleApp2_assign1_Q2
+﻿namespace ConsoleApp2_assign1_Q2
 {
     using System;
     using System.Collections.Generic;

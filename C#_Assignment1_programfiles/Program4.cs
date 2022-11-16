@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-
-namespace ConsoleApp4_assign1_Q4
+﻿namespace ConsoleApp4_assign1_Q4
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using System.Text.RegularExpressions;
+    using System.Threading.Tasks;
+
     internal class Program
     {
         public static bool EmailIsValid(string email)
