@@ -1,0 +1,8 @@
+C:\Users\sakshi.sapkale\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\sakshi.sapkale\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\sakshi.sapkale\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\sakshi.sapkale\Desktop\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\sakshi.sapkale\Desktop\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakshi.sapkale\Desktop\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\sakshi.sapkale\Desktop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\sakshi.sapkale\Desktop\calculator\calculator\obj\Debug\calculator.pdb

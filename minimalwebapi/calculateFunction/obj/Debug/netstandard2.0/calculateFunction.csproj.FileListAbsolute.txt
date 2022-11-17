@@ -1,0 +1,10 @@
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\minimalwebapi\calculateFunction\bin\Debug\netstandard2.0\calculateFunction.deps.json
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\minimalwebapi\calculateFunction\bin\Debug\netstandard2.0\calculateFunction.dll
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\minimalwebapi\calculateFunction\bin\Debug\netstandard2.0\calculateFunction.pdb
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\minimalwebapi\calculateFunction\obj\Debug\netstandard2.0\calculateFunction.csproj.AssemblyReference.cache
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\minimalwebapi\calculateFunction\obj\Debug\netstandard2.0\calculateFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\minimalwebapi\calculateFunction\obj\Debug\netstandard2.0\calculateFunction.AssemblyInfoInputs.cache
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\minimalwebapi\calculateFunction\obj\Debug\netstandard2.0\calculateFunction.AssemblyInfo.cs
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\minimalwebapi\calculateFunction\obj\Debug\netstandard2.0\calculateFunction.csproj.CoreCompileInputs.cache
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\minimalwebapi\calculateFunction\obj\Debug\netstandard2.0\calculateFunction.dll
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\minimalwebapi\calculateFunction\obj\Debug\netstandard2.0\calculateFunction.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YRw+jZSz49hfP/Obl9Okd0q/xQ7W0MqNe47S3o/2OIJ1Qe2uWVFPEcWWrjzQO4BkYPdJpbrXc/CQFa+4YNQdDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sakshi.sapkale\\Desktop\\training\\.netcore\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sakshi.sapkale\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\sakshi.sapkale\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\sakshi.sapkale\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sakshi.sapkale\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
