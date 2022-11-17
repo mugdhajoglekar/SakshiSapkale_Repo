@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8BADveR1z2RZO4vn5RDGEho8b+Qc2QBCSPAavt/fLmzwp/njwfJnExV8UHzDBMz0M3+H46Pd214WOVh1l/+0og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sakshi.sapkale\\Desktop\\clone\\WebApp\\calculateLib\\calculateLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sakshi.sapkale\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sakshi.sapkale\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\sakshi.sapkale\Desktop\clone\WebApp\calculateLib\bin\Debug\netstandard2.0\calculateLib.deps.json
+C:\Users\sakshi.sapkale\Desktop\clone\WebApp\calculateLib\bin\Debug\netstandard2.0\calculateLib.dll
+C:\Users\sakshi.sapkale\Desktop\clone\WebApp\calculateLib\bin\Debug\netstandard2.0\calculateLib.pdb
+C:\Users\sakshi.sapkale\Desktop\clone\WebApp\calculateLib\obj\Debug\netstandard2.0\calculateLib.csproj.AssemblyReference.cache
+C:\Users\sakshi.sapkale\Desktop\clone\WebApp\calculateLib\obj\Debug\netstandard2.0\calculateLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakshi.sapkale\Desktop\clone\WebApp\calculateLib\obj\Debug\netstandard2.0\calculateLib.AssemblyInfoInputs.cache
+C:\Users\sakshi.sapkale\Desktop\clone\WebApp\calculateLib\obj\Debug\netstandard2.0\calculateLib.AssemblyInfo.cs
+C:\Users\sakshi.sapkale\Desktop\clone\WebApp\calculateLib\obj\Debug\netstandard2.0\calculateLib.csproj.CoreCompileInputs.cache
+C:\Users\sakshi.sapkale\Desktop\clone\WebApp\calculateLib\obj\Debug\netstandard2.0\calculateLib.dll
+C:\Users\sakshi.sapkale\Desktop\clone\WebApp\calculateLib\obj\Debug\netstandard2.0\calculateLib.pdb

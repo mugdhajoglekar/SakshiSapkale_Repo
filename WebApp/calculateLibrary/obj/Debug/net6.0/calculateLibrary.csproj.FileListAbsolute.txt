@@ -1,0 +1,12 @@
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\WebAdd\calculateLibrary\bin\Debug\net6.0\calculateLibrary.deps.json
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\WebAdd\calculateLibrary\bin\Debug\net6.0\calculateLibrary.dll
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\WebAdd\calculateLibrary\bin\Debug\net6.0\calculateLibrary.pdb
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\WebAdd\calculateLibrary\obj\Debug\net6.0\calculateLibrary.csproj.AssemblyReference.cache
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\WebAdd\calculateLibrary\obj\Debug\net6.0\calculateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\WebAdd\calculateLibrary\obj\Debug\net6.0\calculateLibrary.AssemblyInfoInputs.cache
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\WebAdd\calculateLibrary\obj\Debug\net6.0\calculateLibrary.AssemblyInfo.cs
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\WebAdd\calculateLibrary\obj\Debug\net6.0\calculateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\WebAdd\calculateLibrary\obj\Debug\net6.0\calculateLibrary.dll
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\WebAdd\calculateLibrary\obj\Debug\net6.0\refint\calculateLibrary.dll
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\WebAdd\calculateLibrary\obj\Debug\net6.0\calculateLibrary.pdb
+C:\Users\sakshi.sapkale\Desktop\training\.netcore\assignment3\WebAdd\calculateLibrary\obj\Debug\net6.0\ref\calculateLibrary.dll

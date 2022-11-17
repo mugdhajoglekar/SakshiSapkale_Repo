@@ -1,14 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
-using WebAdd.Models;
-
+﻿
 namespace WebAdd.Controllers
 {
+    using Microsoft.AspNetCore.Mvc;
+    using Microsoft.Extensions.Logging;
+    using System;
+    using System.Collections.Generic;
+    using System.Diagnostics;
+    using System.Linq;
+    using System.Threading.Tasks;
+    using WebAdd.Models;
+    using calculateLib;
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -31,19 +32,19 @@ namespace WebAdd.Controllers
            
             if (cal.calculate == "sub")
             {
-                cal.result = a - b;
+                cal.result = Calculate.Subtraction(a,b);
             }
             else if (cal.calculate == "mul")
             {
-                cal.result = a * b;
+                cal.result = Calculate.Multiplication(a, b);
             }
             else if (cal.calculate == "div")
             {
-                cal.result = a/b;
+                cal.result = Calculate.Division(a, b);
             }
             else
             {
-                cal.result = a + b;
+                cal.result = Calculate.Adition(a, b);
             }
             ViewData["result"]=cal.result;
             return View();

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "calculateLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/calculateLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/calculateLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "calculateLib/1.0.0": {
+      "type": "project",
+      "path": "../calculateLib/calculateLib.csproj",
+      "msbuildProject": "../calculateLib/calculateLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "calculateLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\sakshi.sapkale\\.nuget\\packages\\": {},
@@ -14,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sakshi.sapkale\\Desktop\\training\\.netcore\\assignment3\\WebAdd\\WebAdd\\WebAdd.csproj",
+      "projectUniqueName": "C:\\Users\\sakshi.sapkale\\Desktop\\clone\\WebApp\\WebAdd\\WebAdd.csproj",
       "projectName": "WebAdd",
-      "projectPath": "C:\\Users\\sakshi.sapkale\\Desktop\\training\\.netcore\\assignment3\\WebAdd\\WebAdd\\WebAdd.csproj",
+      "projectPath": "C:\\Users\\sakshi.sapkale\\Desktop\\clone\\WebApp\\WebAdd\\WebAdd.csproj",
       "packagesPath": "C:\\Users\\sakshi.sapkale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sakshi.sapkale\\Desktop\\training\\.netcore\\assignment3\\WebAdd\\WebAdd\\obj\\",
+      "outputPath": "C:\\Users\\sakshi.sapkale\\Desktop\\clone\\WebApp\\WebAdd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,12 +53,17 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Users\\sakshi.sapkale\\Desktop\\training\\.netcore\\assignment3\\minimalwebapi\\calculateFunction\\bin\\Debug": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sakshi.sapkale\\Desktop\\clone\\WebApp\\calculateLib\\calculateLib.csproj": {
+              "projectPath": "C:\\Users\\sakshi.sapkale\\Desktop\\clone\\WebApp\\calculateLib\\calculateLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

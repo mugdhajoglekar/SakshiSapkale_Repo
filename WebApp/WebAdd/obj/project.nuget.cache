@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/hvLCN11sHJcmuUZ0W6Z6qBJzhKv87+Ad6GCxwFHdiS31TqVSifd09h10djBVu2SkIrevo8zTF5P4oBh5cy50Q==",
+  "dgSpecHash": "FbT5MDNPooSQMgSfC1WX2F9oZ7L4qzHlx7t0GP00DdU8oHVtxyhKSFKbg1VElZTQTZHFCpCjz+sjuHQg7/4nIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sakshi.sapkale\\Desktop\\training\\.netcore\\assignment3\\WebAdd\\WebAdd\\WebAdd.csproj",
+  "projectFilePath": "C:\\Users\\sakshi.sapkale\\Desktop\\clone\\WebApp\\WebAdd\\WebAdd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sakshi.sapkale\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
   ],
