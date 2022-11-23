@@ -5,15 +5,16 @@
     using System.Linq;
     using System.Web;
     using System.ComponentModel.DataAnnotations;
+
     public class Employee
     {
         [Required]
-        public int ID { get; set; }
+        public int Id { get; set; }
 
         [Required]
-        public string NAME { get; set; }
+        public string Name { get; set; }
 
         [Required]
-        public string  EMAIL { get; set; }
+        public string  Email { get; set; }
     }
 }
