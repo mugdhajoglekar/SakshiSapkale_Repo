@@ -6,9 +6,11 @@
     using System.Web;
     using System.Web.Mvc;
     using ADOCrud.Models;
-
+    using log4net;
+    
     public class HomeController : Controller
     {
+       // private ILog Logger = LogManager.GetLogger(typeof(HomeController));
         EmployeeRepository db = new EmployeeRepository();
         public ActionResult Index()
         {
@@ -23,7 +25,8 @@
             return View();
         }
 
-        [HttpPost]
+        // [HttpPost]
+        [HttpDelete]
         //DELETE ID
         public ActionResult Delete(Employee obj)
         {

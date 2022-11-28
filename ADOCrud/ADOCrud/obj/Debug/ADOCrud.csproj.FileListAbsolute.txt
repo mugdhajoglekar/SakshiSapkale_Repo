@@ -235,3 +235,6 @@ C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\obj\Debug\ADO
 C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\obj\Debug\ADOCrud.csproj.CopyComplete
 C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\obj\Debug\ADOCrud.dll
 C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\obj\Debug\ADOCrud.pdb
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\log4net.config
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\log4net.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\log4net.xml

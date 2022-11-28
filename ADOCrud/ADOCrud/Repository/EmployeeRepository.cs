@@ -10,6 +10,7 @@
     using System.Web.Hosting;
     using System.Web.Mvc;
     using Microsoft.Ajax.Utilities;
+    using System.Security.Policy;
 
     public class EmployeeRepository
     {
@@ -19,10 +20,14 @@
         //get connection
         public void getconnection(){
             string checkcon = ConfigurationManager.ConnectionStrings["mycon"].ConnectionString;
-            if (checkcon != null) {
+            if (string.IsNullOrEmpty(checkcon)) {
+                throw new NullReferenceException("connectionstring is null.");
+            }
+            else
+            {
                  con = new SqlConnection(ConfigurationManager.ConnectionStrings["mycon"].ConnectionString);
-             }
-         }
+            }
+        }
 
         //get data
         public List<Employee> GetData()
@@ -49,8 +54,9 @@
         }
 
         //delete
-        [HttpPost]
-        public bool Del(Employee obj)
+        //[HttpPost]
+        [HttpDelete]
+        public void Del(Employee obj)
         {
             getconnection();
             SqlCommand cmd = new SqlCommand("crud", con);
@@ -63,15 +69,7 @@
 
             int i = cmd.ExecuteNonQuery();
             con.Close();
-            //if value inserted then it will become 1.
-            if (i >= 1)
-            {
-                return true; //inserted
-            }
-            else
-            {
-                return false;
-            }
+           
         }
 
         //update
