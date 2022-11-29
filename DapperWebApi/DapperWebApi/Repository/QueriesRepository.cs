@@ -3,9 +3,10 @@
     using System.Collections.Generic;
     using System.Data.SqlClient;
     using Dapper;
+    using DapperWebApi.Interfaces;
     using DapperWebApi.Models;
 
-    public class QueriesRepository 
+    public class QueriesRepository
     {
         public IEnumerable<SuperHero> GetAll(SqlConnection connection)
         {
