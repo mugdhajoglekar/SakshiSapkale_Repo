@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
-
-namespace ProductCRUDAPI.Models
+﻿namespace ProductCRUDAPI.Models
 {
+    using System;
+    using System.Collections.Generic;
+    using Microsoft.EntityFrameworkCore;
+    using Microsoft.EntityFrameworkCore.Metadata;
     public partial class ProductDBContext : DbContext
     {
         public ProductDBContext(DbContextOptions<ProductDBContext> options)

@@ -1,9 +1,9 @@
-﻿using Dapper;
-using DapperWebApi.Models;
-using System.Data.SqlClient;
-
-namespace DapperWebApi.Interfaces
+﻿namespace DapperWebApi.Interfaces
 {
+    using Dapper;
+    using DapperWebApi.Models;
+    using System.Data.SqlClient;
+
     public interface IQueriesRepository
     {
         public IEnumerable<SuperHero> GetAll(SqlConnection connection);

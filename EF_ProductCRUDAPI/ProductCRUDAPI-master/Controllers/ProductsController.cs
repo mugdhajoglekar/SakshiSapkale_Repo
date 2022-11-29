@@ -1,9 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using ProductCRUDAPI.Models;
-
-namespace ProductCRUDAPI.Controllers
+﻿namespace ProductCRUDAPI.Controllers
 {
+    using Microsoft.AspNetCore.Mvc;
+    using Microsoft.EntityFrameworkCore;
+    using ProductCRUDAPI.Models;
+
     [Route("api/[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase

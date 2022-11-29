@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace ProductCRUDAPI.Models
+﻿namespace ProductCRUDAPI.Models
 {
+    using System;
+    using System.Collections.Generic;
+
     public partial class Product
     {
         public int Id { get; set; }
