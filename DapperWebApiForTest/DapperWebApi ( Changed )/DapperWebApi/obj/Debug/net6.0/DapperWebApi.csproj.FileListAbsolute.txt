@@ -1,0 +1,141 @@
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\appsettings.json
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.exe
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.deps.json
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.runtimeconfig.json
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.dll
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.pdb
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.csproj.AssemblyReference.cache
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.AssemblyInfoInputs.cache
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.AssemblyInfo.cs
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.csproj.CoreCompileInputs.cache
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\scopedcss\bundle\DapperWebApi.styles.css
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.csproj.CopyComplete
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.dll
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\refint\DapperWebApi.dll
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.pdb
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.genruntimeconfig.cache
+C:\Training app\DapperWebApi\DapperWebApi\obj\Debug\net6.0\ref\DapperWebApi.dll
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Dapper.StrongName.dll
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Training app\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.exe
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.deps.json
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.runtimeconfig.json
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.pdb
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Dapper.StrongName.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.csproj.AssemblyReference.cache
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.AssemblyInfoInputs.cache
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.AssemblyInfo.cs
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.csproj.CoreCompileInputs.cache
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\scopedcss\bundle\DapperWebApi.styles.css
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.csproj.CopyComplete
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\refint\DapperWebApi.dll
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.pdb
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.genruntimeconfig.cache
+C:\Users\sakshi.sapkale\Desktop\DapperWebApi\DapperWebApi\obj\Debug\net6.0\ref\DapperWebApi.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.exe
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.deps.json
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.runtimeconfig.json
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\DapperWebApi.pdb
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Dapper.StrongName.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.csproj.AssemblyReference.cache
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.AssemblyInfoInputs.cache
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.AssemblyInfo.cs
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.csproj.CoreCompileInputs.cache
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\staticwebassets\msbuild.DapperWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.DapperWebApi.props
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DapperWebApi.props
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DapperWebApi.props
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\scopedcss\bundle\DapperWebApi.styles.css
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.csproj.CopyComplete
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\refint\DapperWebApi.dll
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.pdb
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\DapperWebApi.genruntimeconfig.cache
+C:\Users\atik.shaikh\Downloads\DapperWebApi\DapperWebApi\obj\Debug\net6.0\ref\DapperWebApi.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\DapperWebApi.exe
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\DapperWebApi.deps.json
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\DapperWebApi.runtimeconfig.json
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\DapperWebApi.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\DapperWebApi.pdb
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\Dapper.StrongName.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\DapperWebApi.csproj.AssemblyReference.cache
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\DapperWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\DapperWebApi.AssemblyInfoInputs.cache
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\DapperWebApi.AssemblyInfo.cs
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\DapperWebApi.csproj.CoreCompileInputs.cache
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\DapperWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\DapperWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\scopedcss\bundle\DapperWebApi.styles.css
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\DapperWebApi.csproj.CopyComplete
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\DapperWebApi.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\refint\DapperWebApi.dll
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\DapperWebApi.pdb
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\DapperWebApi.genruntimeconfig.cache
+C:\Users\sakshi.sapkale\Downloads\DapperWebApi ( Changed )\DapperWebApi ( Changed )\DapperWebApi\obj\Debug\net6.0\ref\DapperWebApi.dll
