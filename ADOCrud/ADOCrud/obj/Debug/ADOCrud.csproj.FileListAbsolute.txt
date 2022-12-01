@@ -1,0 +1,240 @@
+C:\Training app\ADOCrud\ADOCrud\bin\ADOCrud.dll.config
+C:\Training app\ADOCrud\ADOCrud\bin\ADOCrud.dll
+C:\Training app\ADOCrud\ADOCrud\bin\ADOCrud.pdb
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\csc.exe
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\csc.exe.config
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\csc.rsp
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\csi.exe
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\csi.exe.config
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\csi.rsp
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.AppContext.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Console.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.IO.Compression.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Net.Http.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Net.Sockets.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.ValueTuple.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\vbc.exe
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\vbc.exe.config
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\vbc.rsp
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\VBCSCompiler.exe
+C:\Training app\ADOCrud\ADOCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Training app\ADOCrud\ADOCrud\bin\Antlr3.Runtime.dll
+C:\Training app\ADOCrud\ADOCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Training app\ADOCrud\ADOCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Training app\ADOCrud\ADOCrud\bin\Newtonsoft.Json.dll
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.Helpers.dll
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.Mvc.dll
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.Optimization.dll
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.Razor.dll
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.WebPages.dll
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.WebPages.Razor.dll
+C:\Training app\ADOCrud\ADOCrud\bin\WebGrease.dll
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.Helpers.xml
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.Mvc.xml
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.Optimization.xml
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.Razor.xml
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.WebPages.xml
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Training app\ADOCrud\ADOCrud\bin\System.Web.WebPages.Razor.xml
+C:\Training app\ADOCrud\ADOCrud\bin\Newtonsoft.Json.xml
+C:\Training app\ADOCrud\ADOCrud\bin\Antlr3.Runtime.pdb
+C:\Training app\ADOCrud\ADOCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Training app\ADOCrud\ADOCrud\obj\Debug\ADOCrud.csproj.AssemblyReference.cache
+C:\Training app\ADOCrud\ADOCrud\obj\Debug\ADOCrud.csproj.CoreCompileInputs.cache
+C:\Training app\ADOCrud\ADOCrud\obj\Debug\ADOCrud.csproj.CopyComplete
+C:\Training app\ADOCrud\ADOCrud\obj\Debug\ADOCrud.dll
+C:\Training app\ADOCrud\ADOCrud\obj\Debug\ADOCrud.pdb
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\ADOCrud.dll.config
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\ADOCrud.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\ADOCrud.pdb
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\csc.exe
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\csc.exe.config
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\csc.rsp
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\csi.exe
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\csi.exe.config
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\csi.rsp
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.AppContext.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Console.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.IO.Compression.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Net.Http.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.ValueTuple.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\vbc.exe
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\vbc.exe.config
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\vbc.rsp
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\VBCSCompiler.exe
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\Antlr3.Runtime.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\Newtonsoft.Json.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.Helpers.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.Mvc.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.Optimization.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.Razor.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.WebPages.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\WebGrease.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.Helpers.xml
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.Mvc.xml
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.Optimization.xml
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.Razor.xml
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.WebPages.xml
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\Newtonsoft.Json.xml
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\Antlr3.Runtime.pdb
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\obj\Debug\ADOCrud.csproj.AssemblyReference.cache
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\obj\Debug\ADOCrud.csproj.CoreCompileInputs.cache
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\obj\Debug\ADOCrud.csproj.CopyComplete
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\obj\Debug\ADOCrud.dll
+C:\Users\sakshi.sapkale\Desktop\ADOCrud\ADOCrud\obj\Debug\ADOCrud.pdb
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\ADOCrud.dll.config
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\ADOCrud.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\ADOCrud.pdb
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\csc.exe
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\csc.exe.config
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\csc.rsp
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\csi.exe
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\csi.exe.config
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\csi.rsp
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.AppContext.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Console.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.IO.Compression.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Net.Http.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.ValueTuple.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\vbc.exe
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\vbc.exe.config
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\vbc.rsp
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\VBCSCompiler.exe
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\Antlr3.Runtime.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\Newtonsoft.Json.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.Helpers.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.Mvc.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.Optimization.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.Razor.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.WebPages.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\WebGrease.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.Helpers.xml
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.Mvc.xml
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.Optimization.xml
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.Razor.xml
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.WebPages.xml
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\Newtonsoft.Json.xml
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\Antlr3.Runtime.pdb
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\obj\Debug\ADOCrud.csproj.AssemblyReference.cache
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\obj\Debug\ADOCrud.csproj.CoreCompileInputs.cache
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\obj\Debug\ADOCrud.csproj.CopyComplete
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\obj\Debug\ADOCrud.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\obj\Debug\ADOCrud.pdb
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\log4net.config
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\log4net.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\ADOCrud\ADOCrud\bin\log4net.xml
