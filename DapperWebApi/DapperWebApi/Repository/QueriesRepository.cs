@@ -8,7 +8,23 @@
 
     public class QueriesRepository
     {
-        public IEnumerable<SuperHero> GetAll(SqlConnection connection)
+        /*
+        public IConfiguration Configuration { get; }
+        public QueriesRepository(IConfiguration configuration)
+        {
+            Configuration = configuration;
+        }
+
+        public async Task<IEnumerable<SuperHero>> GetAll()
+        {
+            var sql = "select * from SuperHeroes";
+            using (var connection = new SqlConnection(Configuration.GetConnectionString("DefaultConnection")))
+            {
+                var heroes = await connection.QueryAsync<SuperHero>(sql);
+                return heroes.ToList();
+            }
+        }*/
+         public IEnumerable<SuperHero> GetAll(SqlConnection connection)
         {
             return connection.Query<SuperHero>("select * from SuperHeroes");
         }
@@ -30,6 +46,6 @@
         {
             return connection.Query<SuperHero>("delete from SuperHeroes where id=@Id", new { Id = heroId });
         }
-
+        
     }
 }

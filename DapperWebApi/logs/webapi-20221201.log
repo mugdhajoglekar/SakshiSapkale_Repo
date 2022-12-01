@@ -1,0 +1,77 @@
+2022-12-01 17:31:45.960 +05:30  INF  User profile is available. Using 'C:\Users\sakshi.sapkale\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-01 17:31:46.300 +05:30  INF  Now listening on: https://localhost:7234
+2022-12-01 17:31:46.300 +05:30  INF  Now listening on: http://localhost:5234
+2022-12-01 17:31:46.303 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-01 17:31:46.303 +05:30  INF  Hosting environment: Development
+2022-12-01 17:31:46.303 +05:30  INF  Content root path: C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\
+2022-12-01 17:31:47.287 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - -
+2022-12-01 17:31:47.970 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - -
+2022-12-01 17:31:47.970 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - -
+2022-12-01 17:31:47.973 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - - - 200 - text/html;charset=utf-8 533.0279ms
+2022-12-01 17:31:48.013 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - - - 200 11994 application/javascript;+charset=utf-8 42.9965ms
+2022-12-01 17:31:48.198 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 227.4648ms
+2022-12-01 17:31:48.376 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - -
+2022-12-01 17:31:48.542 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 165.6836ms
+2022-12-01 17:32:03.521 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/api/SuperHeroes/1 - -
+2022-12-01 17:32:03.801 +05:30  INF  Executing endpoint 'DapperWebApi.Controllers.SuperHeroesController.GetHero (DapperWebApi)'
+2022-12-01 17:32:03.856 +05:30  INF  Route matched with {action = "GetHero", controller = "SuperHeroes"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult GetHero(Int32) on controller DapperWebApi.Controllers.SuperHeroesController (DapperWebApi).
+2022-12-01 17:32:04.933 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[DapperWebApi.Models.SuperHero, DapperWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-01 17:32:04.971 +05:30  INF  Executed action DapperWebApi.Controllers.SuperHeroesController.GetHero (DapperWebApi) in 1085.8467ms
+2022-12-01 17:32:04.976 +05:30  INF  Executed endpoint 'DapperWebApi.Controllers.SuperHeroesController.GetHero (DapperWebApi)'
+2022-12-01 17:32:04.976 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/api/SuperHeroes/1 - - - 200 - application/json;+charset=utf-8 1455.3036ms
+2022-12-01 17:38:14.545 +05:30  INF  User profile is available. Using 'C:\Users\sakshi.sapkale\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-01 17:38:15.024 +05:30  INF  Now listening on: https://localhost:7234
+2022-12-01 17:38:15.024 +05:30  INF  Now listening on: http://localhost:5234
+2022-12-01 17:38:15.031 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-01 17:38:15.031 +05:30  INF  Hosting environment: Development
+2022-12-01 17:38:15.031 +05:30  INF  Content root path: C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\
+2022-12-01 17:38:15.823 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - -
+2022-12-01 17:38:16.172 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - - - 200 - text/html;charset=utf-8 351.6647ms
+2022-12-01 17:38:16.187 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - -
+2022-12-01 17:38:16.187 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - -
+2022-12-01 17:38:16.194 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - - - 200 11994 application/javascript;+charset=utf-8 6.9255ms
+2022-12-01 17:38:16.236 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 49.4942ms
+2022-12-01 17:38:16.523 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - -
+2022-12-01 17:38:16.668 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 144.5049ms
+2022-12-01 17:38:26.994 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/api/SuperHeroes/2 - -
+2022-12-01 17:38:27.275 +05:30  INF  Executing endpoint 'DapperWebApi.Controllers.SuperHeroesController.GetHero (DapperWebApi)'
+2022-12-01 17:38:27.324 +05:30  INF  Executed endpoint 'DapperWebApi.Controllers.SuperHeroesController.GetHero (DapperWebApi)'
+2022-12-01 17:38:27.337 +05:30  ERR  An unhandled exception has occurred while executing the request.System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'DapperWebApi.Controllers.SuperHeroesController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2022-12-01 17:38:27.490 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/api/SuperHeroes/2 - - - 500 - text/plain;+charset=utf-8 496.3613ms
+2022-12-01 17:39:58.719 +05:30  INF  User profile is available. Using 'C:\Users\sakshi.sapkale\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-01 17:39:59.143 +05:30  INF  Now listening on: https://localhost:7234
+2022-12-01 17:39:59.143 +05:30  INF  Now listening on: http://localhost:5234
+2022-12-01 17:39:59.146 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-01 17:39:59.147 +05:30  INF  Hosting environment: Development
+2022-12-01 17:39:59.147 +05:30  INF  Content root path: C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\
+2022-12-01 17:39:59.913 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - -
+2022-12-01 17:40:00.286 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - - - 200 - text/html;charset=utf-8 375.1571ms
+2022-12-01 17:40:00.307 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - -
+2022-12-01 17:40:00.307 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - -
+2022-12-01 17:40:00.312 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - - - 200 11994 application/javascript;+charset=utf-8 4.9828ms
+2022-12-01 17:40:00.354 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.0570ms
+2022-12-01 17:40:00.594 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - -
+2022-12-01 17:40:00.736 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 141.5075ms
+2022-12-01 17:40:07.984 +05:30  INF  Request starting HTTP/2 GET https://localhost:7234/api/SuperHeroes/2 - -
+2022-12-01 17:40:08.254 +05:30  INF  Executing endpoint 'DapperWebApi.Controllers.SuperHeroesController.GetHero (DapperWebApi)'
+2022-12-01 17:40:08.311 +05:30  INF  Route matched with {action = "GetHero", controller = "SuperHeroes"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult GetHero(Int32) on controller DapperWebApi.Controllers.SuperHeroesController (DapperWebApi).
+2022-12-01 17:40:08.455 +05:30  INF  Getting SuperHero with specific ID...
+2022-12-01 17:40:09.436 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[DapperWebApi.Models.SuperHero, DapperWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-01 17:40:09.464 +05:30  INF  Executed action DapperWebApi.Controllers.SuperHeroesController.GetHero (DapperWebApi) in 1134.4193ms
+2022-12-01 17:40:09.469 +05:30  INF  Executed endpoint 'DapperWebApi.Controllers.SuperHeroesController.GetHero (DapperWebApi)'
+2022-12-01 17:40:09.470 +05:30  INF  Request finished HTTP/2 GET https://localhost:7234/api/SuperHeroes/2 - - - 200 - application/json;+charset=utf-8 1485.6726ms

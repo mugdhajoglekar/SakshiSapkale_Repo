@@ -15,6 +15,7 @@
     using System.IdentityModel.Tokens.Jwt;
     using System.Security.Claims;
     using Microsoft.AspNetCore.Authorization;
+    using Serilog.AspNetCore;
 
     [Route("api/[controller]")]
     [ApiController]
@@ -26,10 +27,14 @@
         QueriesRepository db = new QueriesRepository();
 
         private readonly IConfiguration _config;
+        //Add log
+        private readonly ILogger<SuperHeroesController> _logger;
 
-        public SuperHeroesController(IConfiguration config)
+        public SuperHeroesController(IConfiguration config, ILogger<SuperHeroesController> logger)
         {
-            _config = config;
+             _config = config;
+            _logger = logger;
+            ///_herorepo = new QueriesRepository(config);
         }
 
         //For Token
@@ -44,7 +49,7 @@
 
             return Ok(user);
         }
-
+        
         // If User is Registered then create token for it
         [HttpPost("login")]
         public async Task<ActionResult<string>> Login(UserDto request)
@@ -80,7 +85,6 @@
                 return computedHash.SequenceEqual(passwordHash);
             }
         }
-
         private string CreateToken(User user)
         {
             List<Claim> claims = new List<Claim>
@@ -109,7 +113,7 @@
         public IActionResult GetAllSuperHeroes()
         {
             using var connection = new SqlConnection(_config.GetConnectionString("DefaultConnection"));
-            var output =  db.GetAll(connection);
+            var output = db.GetAll(connection);
             return Ok(output);
         }
 
@@ -117,6 +121,9 @@
         [HttpGet("{heroId}")]
         public ActionResult GetHero(int heroId)
         {
+            //Add log
+            _logger.LogInformation("Getting SuperHero with specific ID...");
+
             using var connection = new SqlConnection(_config.GetConnectionString("DefaultConnection"));
             var output = db.GetSingleItem(connection,heroId);
             return Ok(output);
@@ -149,6 +156,6 @@
             db.removeHero(connection, heroId);
             return Ok(db.GetAll(connection));
         }
-
+        
     }
 }

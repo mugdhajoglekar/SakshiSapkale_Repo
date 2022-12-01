@@ -118,3 +118,12 @@ C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\bin
 C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Swashbuckle.Core.dll
 C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\bin\Debug\net6.0\WebActivatorEx.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\sakshi.sapkale\Desktop\SakshiSapkale_Repo\DapperWebApi\DapperWebApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
